@@ -17,7 +17,7 @@
 
             <!--忘记密码-->
             <div class="forget-pass">
-                <div class="forget-pass-btn" @click="forget">忘记密码</div>
+                <div class="forget-pass-btn" @click="forget">忘记密码测试回退</div>
             </div>
 
             <!--键盘区-->
